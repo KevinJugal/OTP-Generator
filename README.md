@@ -10,10 +10,10 @@ Now install the following packages-<br>
 tkinter<br>twilio
 <br>
 Use pip package to install them into your environment<br>
-Now go to the twilio website and create an account<br>
 
 <br>
-
+Now go to the twilio website and create an account<br>
+<br>
 Generate a number and fill it in the fromNum field
 <br>
 Put the destination number with the country code in the toNum field<br>
