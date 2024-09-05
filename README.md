@@ -9,5 +9,7 @@ Make sure you create a virtual environment using<br>
 Now install the following packages-<br>
 <tr>
   <th>tkinter</th>
+</tr>
+<tr>
   <th>twilio</th>
 </tr>
